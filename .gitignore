@@ -1,0 +1,15 @@
+# Relay
+relay/node_modules/
+relay/wa-auth/
+relay/.env
+
+# Android
+watch/local.properties
+watch/.gradle/
+watch/build/
+watch/app/build/
+watch/.idea/
+watch/.kotlin/
+*.iml
+*.apk
+.DS_Store

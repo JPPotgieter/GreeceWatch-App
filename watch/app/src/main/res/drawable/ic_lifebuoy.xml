@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Lifebuoy: white ring with red bands. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:fillType="evenOdd"
+        android:pathData="M24,4a20,20 0,1 1,0 40a20,20 0,1 1,0 -40zM24,14a10,10 0,1 0,0 20a10,10 0,1 0,0 -20z" />
+    <path
+        android:fillColor="#FFD32F2F"
+        android:pathData="M19,4.6L19,14.9A10,10 0,0 1,29 14.9L29,4.6A20,20 0,0 0,19 4.6z M19,43.4L19,33.1A10,10 0,0 0,29 33.1L29,43.4A20,20 0,0 1,19 43.4z M4.6,19L14.9,19A10,10 0,0 0,14.9 29L4.6,29A20,20 0,0 1,4.6 19z M43.4,19L33.1,19A10,10 0,0 1,33.1 29L43.4,29A20,20 0,0 0,43.4 19z" />
+</vector>

@@ -1,0 +1,9 @@
+# Copy to local.properties and fill in. local.properties is git-ignored.
+# sdk.dir is normally written by Android Studio for you.
+
+# Public HTTPS address of your relay server (see relay/README section)
+relay.url=https://mob-relay.example.com
+# Same value as RELAY_TOKEN on the relay
+relay.token=paste-the-long-random-token-here
+# How you appear in the WhatsApp alert
+crew.name=JP

@@ -1,0 +1,19 @@
+{
+  "name": "greecewatch-relay",
+  "version": "1.0.0",
+  "description": "Posts man-overboard alerts from the watch into a WhatsApp group",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "baileys": "^7.0.0-rc14",
+    "pino": "^10.4.0",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  }
+}
